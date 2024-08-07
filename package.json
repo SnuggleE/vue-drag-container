@@ -2,6 +2,9 @@
   "name": "vue-drage-container",
   "version": "0.0.2",
   "type": "module",
+  "author": {
+    "ljk": "353239468@qq.com"
+  },
   "git": "https://github.com/SnuggleE/vue-drag-container.git",
   "scripts": {
     "dev": "vite",
