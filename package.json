@@ -1,6 +1,6 @@
 {
-  "name": "vue-drage-container",
-  "version": "0.0.3",
+  "name": "vue-drag-container",
+  "version": "0.0.8",
   "type": "module",
   "author": {
     "ljk": "353239468@qq.com"
@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "lib": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -18,5 +19,17 @@
     "@vitejs/plugin-vue": "^5.0.5",
     "less": "^4.2.0",
     "vite": "^5.3.4"
-  }
+  },
+  "license": "MIT",
+  "description": "vue3.x 拖拽容器组件",
+  "main": "./src/conponents/drag-container.vue",
+  "keywords": [
+    "vue3",
+    "layout",
+    "drag",
+    "container",
+    "vue-drag",
+    "vue-layout",
+    "resize"
+  ]
 }

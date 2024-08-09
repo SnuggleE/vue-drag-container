@@ -23,7 +23,7 @@
 </template>
 
 <script setup>
-import dragContainer from './components/drag-container.vue';
+import DragContainer from './components/drag-container.vue';
 
 </script>
 <style lang="less" scoped>
