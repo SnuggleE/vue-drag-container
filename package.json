@@ -22,7 +22,7 @@
   },
   "license": "MIT",
   "description": "vue3.x 拖拽容器组件",
-  "main": "./dist/vue-drag-container.umd.js",
+  "main": "./src/conponents/drag-container.vue",
   "keywords": [
     "vue3",
     "layout",
